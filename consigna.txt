@@ -1,0 +1,4 @@
+Crear una funcion llamada sumatoria(cantidad) que recibira un numero llamado cantidad y la funcion solicitara la cantidad de numeros que se indique en el parametro cantidad y los sumara
+Ejemplo:
+sumatoria(2) solicitara 2 numeros y los acumulara, dara como valor de retorno la suma de los 2 numeros
+Si el primer numero es 3 y el segundo 2, el retorno de la funcion debe ser 5
